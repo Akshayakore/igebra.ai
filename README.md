@@ -1,6 +1,6 @@
-# 🎓 DSA FunLearn – Interactive Learning Platform for Kids
+# 🎓FunLearn – Interactive Learning Platform for Kids
 
-Welcome to **DSA FunLearn**, a kid-friendly, interactive learning platform built using **Streamlit**. Designed especially for students from **4th to 10th grade**, this web app combines coding challenges, games, and puzzles in a colorful and engaging UI.
+Welcome to **FunLearn**, a kid-friendly, interactive learning platform built using **Streamlit**. Designed especially for students from **4th to 10th grade**, this web app combines coding challenges, games, and puzzles in a colorful and engaging UI.
 
 ---
 
